@@ -23,16 +23,12 @@ module.exports = { session: process.env.SESSION_ID || '',
     ETAT : process.env.PRESENCE || '',
     CHATBOT : process.env.PM_CHATBOT || 'no',
     DP : process.env.STARTING_BOT_MESSAGE || "yes",
-                  ANTIDELETE2 : process.env.ANTIDELETE2 || "yes",
-                  ANTIDELETE1 : process.env.ANTIDELETE1 || "yes",
     ADM : process.env.ANTI_DELETE_MESSAGE || 'no',
-    CRISS_VMD : process.env.AUTO_LIKE_STATUS || 'yes',
     DATABASE_URL,
     DATABASE: DATABASE_URL === databasePath
         ? "postgresql://postgres:bKlIqoOUWFIHOAhKxRWQtGfKfhGKgmRX@viaduct.proxy.rlwy.net:47738/railway" : "postgresql://postgres:bKlIqoOUWFIHOAhKxRWQtGfKfhGKgmRX@viaduct.proxy.rlwy.net:47738/railway",
    
 };
-
 let fichier = require.resolve(__filename);
 fs.watchFile(fichier, () => {
     fs.unwatchFile(fichier);

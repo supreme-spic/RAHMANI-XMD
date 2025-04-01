@@ -1,9 +1,9 @@
 {
-  "name":"RAHMAN-MD",
-  "description":"Best whatsapp bot created by Rahmani Md",
+  "name":"ENZO",
+  "description":"Best whatsapp bot developed by ENZO",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://files.catbox.moe/aktbgo.jpg",
-  "repository":"https://github.com/Qartde/Qart-MD",
+  "logo":"https://i.ibb.co/hYF7XQw/IMG-20241019-WA0222.jpg",
+  "repository":"https://github.com/ENZOTECH2/ENZO-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -13,79 +13,37 @@
       "value":".",
       "required":true
     },
-	  "ANTICALL":
-    {
-      "description":"Enter yes for your bot to reject calls",
-      "value":"yes",
-      "required":false
-    },
-         "AUTO_BIO":
-    {
-      "description":"Enter yes for your bot to auto bio",
-      "value":"yes",
-      "required":false
-    },
-  "AUTO_REACT_STATUS":
-    {
-      "description":"Enter yes for your bot to auto react status",
-      "value":"yes",
-      "required":false
-    },
-	  "AUTO_SAVE_CONTACTS":
-    {
-      "description":"Enter yes for your bot to auto save contacts",
-      "value":"no",
-      "required":false
-    },
-	  "AUTO_REACT":
-    {
-      "description":"Enter yes for your bot to auto react message in all chats",
-      "value":"yes",
-      "required":false
-    },
-	  "AUDIO_REPLY":
-    {
-      "description":"Enter yes for your bot to auto reply audio in all chats",
-      "value":"yes",
-      "required":false
-    },
-	  "AUTO_REPLY":
-    {
-      "description":"Enter yes for your bot to auto reply message when you are offline",
-      "value":"yes",
-      "required":false
-    },
     "AUTO_READ_STATUS":
     {
       "description":"Your contact status will be read automatically(type yes to active or no to deactive  ; don't write in capital letter)",
       "value":"yes",
       "required":false
-    }, 
-	  "AUTO_DOWNLOAD_STATUS":
+    }, "AUTO_DOWNLOAD_STATUS":
     {
       "description":"Your contact status will be download automatically and send to you(type yes to active or no to deactive ; don't write in capital letter)",
       "value":"no",
       "required":false
     }
     ,
-        "PM_PERMIT" :
+     "PM_PERMIT" :
      {
       "description":"Other user can't use your bot in pm (type yes to active or no to deactive ; don't write in capital letter)",
       "value":"no",
       "required":false
-    },
-       "BOT_NAME" : 
-    {
-    "description":"put A name for your bot",
-    "value":"RAHMANI-MD",
-    "required":false
+    }
+    ,
+    "BOT_NAME" : {
+       
+      "description":"put A name for your bot",
+      "value":"𝐄𝐍𝐙𝐎 𝐌𝐃",
+      "required":false
 
-    },
-       "BOT_MENU_LINKS" : 
-   {
-    "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-    "value":"https://files.catbox.moe/aktbgo.jpg.jpg",
-    "required":false
+    } ,
+     "BOT_MENU_LINKS" : {
+    
+      "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
+      "value":"https://i.ibb.co/qMvsxL8/1680858151-752-x-1584.jpg",
+      "required":false
        
      },
     "PUBLIC_MODE":
@@ -97,7 +55,6 @@
 	,
     "HEROKU_API_KEY": {
     "description": "insert your heroku api-key (this is optionnal)",
-     "value":"HRKU-4e30b0fa-c892-471f-833b-dbdb416de2d3", 
      "required" :false
     },
   "HEROKU_APP_NAME": {
@@ -117,41 +74,35 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Rahmani Md"
+    "value": "𝐄𝐍𝐙𝐎 𝐓𝐄𝐂𝐇"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255693629079,255784766591"
+    "value": "254784115308"
   },
     "WARN_COUNT":
   {
     "desc": "this is the limit of warn for warning commandes",
     "required": false,
-    "value": "5"
+    "value": "3"
   },
   "STARTING_BOT_MESSAGE":
   {
     "description": "if you don't want startting-bot-message put no else put yes",
     "required": true,
-    "value": "no"
+    "value": "yes"
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-    "value":"2",
+    "value":"",
     "required": false
-	  
   },
-	    "AUTO_READ":{
-    "description":"Enter yes for auto read messages.",
-    "value":"no",
-    "required": false
-    },
   "ANTI_DELETE_MESSAGE" : {
     "description": "if you want to enable anti delete message put yes else put no",
-    "value": "no",
+    "value": "yes",
         "required": false
   }
   },
@@ -179,4 +130,4 @@
       "plan": "heroku-postgresql:essential-0"
     }
   ]
-  }
+}
