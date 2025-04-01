@@ -1,9 +1,9 @@
 {
-  "name":"ENZO",
-  "description":"Best whatsapp bot developed by ENZO",
+  "name":"RAHMANI-XMD",
+  "description":"Best whatsapp bot developed by Njabulo Jb",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://i.ibb.co/hYF7XQw/IMG-20241019-WA0222.jpg",
-  "repository":"https://github.com/ENZOTECH2/ENZO-MD",
+  "logo":"https://files.catbox.moe/aktbgo.jpg",
+  "repository":"https://github.com/Qartde/RAHMANI-XMD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝐄𝐍𝐙𝐎 𝐌𝐃",
+      "value":"RAHMANI-XMD",
       "required":false
 
     } ,
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝐄𝐍𝐙𝐎 𝐓𝐄𝐂𝐇"
+    "value": "RAHMANI-XMD"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254784115308"
+    "value": "255693629079"
   },
     "WARN_COUNT":
   {
@@ -130,4 +130,4 @@
       "plan": "heroku-postgresql:essential-0"
     }
   ]
-}
+    }
