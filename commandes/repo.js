@@ -12,7 +12,7 @@ zokou({
 }, async (dest, zk, commandeOptions) => {
   const { repondre, prefixe } = commandeOptions;
   const githubRepo = 'https://github.com/Qartde/RAHMANI-XMD';
-  const thumbnailImg = 'https://files.catbox.moe/aktbgo.jpg';
+  const thumbnailImg = '';
   const channelThumbnail = 'https://files.catbox.moe/aktbgo.jpg';
 
   try {
