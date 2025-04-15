@@ -1,19 +1,22 @@
-const {
-   smd
-} = require('../lib')
-smd({
-   cmdname: "dog",
-   desc: "Send videos of randome dogs!",
-   type: "misc",
-   filename: __filename,
-},
-   async (m) => {
-      try {
-         const fetch = require("node-fetch");
-         let res = await fetch('https://random.dog/woof.json')
-         let json = await res.json()
-         if (json.status) return await m.reply("*Request Denied!*")
-         m.bot.sendFileUrl(m.jid, json.url, "", m, { author: "Rahmani-Md" }, "video");
+const axios = require('axios');
+const { cmd, commands } = require('../command');
 
-      } catch (e) { m.error(`${e}\n\nCommand: dog`, e, false) }
-   })
+cmd({
+    pattern: "dog",
+    desc: "Fetch a random dog image.",
+    category: "fun",
+    react: "🦴",
+    filename: __filename
+},
+async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
+    try {
+        const apiUrl = `https://dog.ceo/api/breeds/image/random`;
+        const response = await axios.get(apiUrl);
+        const data = response.data;
+
+        await conn.sendMessage(from, { image: { url: data.message }, caption: 'RAHMANI MD BRING 📂DOG PICS\n\n\n> *BY Rahmani Md*' }, { quoted: mek });
+    } catch (e) {
+        console.log(e);
+        reply(`Error Fetching Dog Image🤕: ${e.message}`);
+    }
+});
