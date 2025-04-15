@@ -4,7 +4,7 @@ zokou({ nomCom: "hacker",
     categorie: "Logo", reaction: "👨🏿‍💻" }, async (origineMessage, zk, commandeOptions) => {
     const { prefixe, arg, ms, repondre } = commandeOptions;
     if (!arg || arg == "") {
-        repondre("*__Exemple : * " + prefixe + "hacker Kibore");
+        repondre("*__Exemple : * " + prefixe + "hacker rahmani");
         return;
     }
     try {
@@ -15,7 +15,7 @@ zokou({ nomCom: "hacker",
         // console.log("&€"+res);
       //  let lien = "https://e1.yotools.net" + res;
         repondre("* processing...*");
-        await zk.sendMessage(origineMessage, { image: { url:anu.image}, caption: "* \t Logo by Kibore_Md*" }, { quoted: ms });
+        await zk.sendMessage(origineMessage, { image: { url:anu.image}, caption: "* \t Logo by Rahmani_Md*" }, { quoted: ms });
     }
     catch (e) {
         repondre("🥵🥵 " + e);
@@ -39,7 +39,7 @@ zokou({ nomCom: "dragonball", categorie: "Logo", reaction: "🐉" }, async (dest
         await zk.sendMessage(dest, { text: " *\t Traitement en cours ...*" }, { quoted: ms });
        // var idImg = Object.values(imgInfo)[3];
        
-        await zk.sendMessage(dest, { image: { url: imgInfo.image }, caption: "* \t Logo by KIBORE_Md v5*" }, { quoted: ms });
+        await zk.sendMessage(dest, { image: { url: imgInfo.image }, caption: "* \t Logo by RAHMANI_Md v5*" }, { quoted: ms });
     }
     catch (e) {
         repondre("🥵🥵 " + e);
@@ -114,7 +114,7 @@ zokou({ nomCom: "didong", categorie: "Logo", reaction: "📱" }, async (dest, zk
 zokou({nomCom : "wall",categorie : "Logo",reaction : "👍"} , async (dest,zk,commandeOptions) =>{
 
   const {arg,repondre,ms,prefixe} = commandeOptions;
-  if(!arg[0]) { repondre( `Exemple of using commande:\n ${prefixe}wall Lucky_Md` ); return ;}
+  if(!arg[0]) { repondre( `Exemple of using commande:\n ${prefixe}wall Rahmani_Md` ); return ;}
    let text = arg.join(" ")
    mumaker.textpro("https://textpro.me/break-wall-text-effect-871.html", text)
 .then((data) =>{
@@ -242,7 +242,7 @@ var lien="https://en.ephoto360.com/boom-text-comic-style-text-effect-675.html";
          
 
 repondre("  processing ...")
-         await zk.sendMessage(dest,{image:{url:img.image},caption:"\t *Logo by 𝕂𝕀𝔹𝕆ℝ𝔼 𝕄𝕕*"})
+         await zk.sendMessage(dest,{image:{url:img.image},caption:"\t *Logo by 𝐑𝐀𝐇𝐌𝐀𝐍𝐈 𝐗𝐌𝐃*"})
          
         // await zk.sendMessage(dest,{image:{url:lienImage},caption:"\t *Logo by Zokou-Md*"})
          
@@ -259,7 +259,7 @@ zokou({nomCom:"water",categorie:"Logo",reation:"💦"},async(dest,zk,commandeOpt
 var {ms,repondre,arg,prefixe}=commandeOptions;
   if(!arg||arg=="")
   {
-    repondre(`${prefixe}water 𝙺𝚒𝚋𝚘𝚛𝚎`)
+    repondre(`${prefixe}water 𝐑𝐚𝐡𝐦𝐚𝐧𝐢`)
     return;
   }
   try{
@@ -298,7 +298,7 @@ zokou({ nomCom: "transformer", categorie: "Logo", reaction: "🤖" }, async (des
   const text = arg.join(" ");
   mumaker.textpro("https://textpro.me/create-a-transformer-text-effect-online-1035.html", text)
     .then((data) => {
-      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo by 𝗞𝗶𝗯𝗼𝗿𝗲' }, { quoted: ms });
+      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo by 𝐑𝐚𝐡𝐦𝐚𝐧𝐢' }, { quoted: ms });
     })
     .catch((err) => {
       console.error("Une erreur s'est produite :", err);
@@ -315,7 +315,7 @@ zokou({ nomCom: "thunder", categorie: "Logo", reaction: "⚡" }, async (dest, zk
   const text = arg.join(" ");
   mumaker.textpro("https://textpro.me/online-thunder-text-effect-generator-1031.html", text)
     .then((data) => {
-      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo by 𝗸𝗶𝗯𝗼𝗿𝗲' }, { quoted: ms });
+      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo by 𝐑𝐚𝐡𝐦𝐚𝐧𝐢' }, { quoted: ms });
     })
     .catch((err) => {
       console.error("Une erreur s'est produite :", err);
@@ -332,7 +332,7 @@ zokou({ nomCom: "harrypotter", categorie: "Logo", reaction: "🧙‍♂️" }, a
   const text = arg.join(" ");
   mumaker.textpro("https://textpro.me/create-harry-potter-text-effect-online-1025.html", text)
     .then((data) => {
-      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo by 𝗞𝗶𝗯𝗼𝗿𝗲' }, { quoted: ms });
+      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo by 𝐑𝐚𝐡𝐦𝐚𝐧𝐢' }, { quoted: ms });
     })
     .catch((err) => {
       console.error("Une erreur s'est produite :", err);
@@ -368,7 +368,7 @@ zokou({ nomCom: "whitegold", categorie: "Logo", reaction: "💫" }, async (dest,
   const text = arg.join(" ");
   mumaker.textpro("https://textpro.me/elegant-white-gold-3d-text-effect-online-free-1070.html", text)
     .then((data) => {
-      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo by 𝗞𝗶𝗯𝗼𝗿𝗲' }, { quoted: ms });
+      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo by 𝐑𝐚𝐡𝐦𝐚𝐧𝐢' }, { quoted: ms });
     })
     .catch((err) => {
       console.error("Une erreur s'est produite :", err);
@@ -385,7 +385,7 @@ zokou({ nomCom: "lightglow", categorie: "Logo", reaction: "🌟" }, async (dest,
   const text = arg.join(" ");
   mumaker.textpro("https://textpro.me/create-light-glow-sliced-text-effect-online-1068.html", text)
     .then((data) => {
-      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo by 𝗞𝗶𝗯𝗼𝗿𝗲' }, { quoted: ms });
+      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo by 𝐑𝐚𝐡𝐦𝐚𝐧𝐢' }, { quoted: ms });
     })
     .catch((err) => {
       console.error("Une erreur s'est produite :", err);
@@ -438,7 +438,7 @@ zokou({nomCom:"purple",categorie:"Logo",reaction:"🧳"},async(dest,zk,commandeO
       const lien="https://en.ephoto360.com/purple-text-effect-online-100.html"
       var img = await mumaker.ephoto(lien,arg);
       repondre(" processing ...")
-      await zk.sendMessage(dest,{image:{url:img.image},caption:"      *Logo by 𝗞𝗶𝗯𝗼𝗿𝗲_𝗺𝗱*"});
+      await zk.sendMessage(dest,{image:{url:img.image},caption:"      *Logo by 𝗥𝗮𝗵𝗺𝗮𝗻𝗶_𝗺𝗱*"});
     }catch(e){repondre(e)}
   
 })
@@ -457,7 +457,7 @@ zokou({nomCom:"gold",categorie:"Logo",reaction:"🧚🏿‍♀️"},async(dest,z
 
     var img = await mumaker.ephoto(lien,arg);
    repondre("processing ...")
-    await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by 𝗞𝗶𝗯𝗼𝗿𝗲_𝗺𝗱*"},{quoted:ms})
+    await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by 𝗥𝗮𝗵𝗺𝗮𝗻𝗶_𝗺𝗱*"},{quoted:ms})
   }catch(e){repondre(e)}
 })
 
@@ -476,7 +476,7 @@ zokou({nomCom:"arena",categorie:"Logo",reaction:"🥵"},async(dest,zk,commandeOp
 
     var img = await mumaker.ephoto(lien,arg.join(' '));
    repondre("processing ...")
-    await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by 𝗞𝗶𝗯𝗼𝗿𝗲_𝗺𝗱*"},{quoted:ms})
+    await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by 𝗥𝗮𝗵𝗺𝗮𝗻𝗶_𝗺𝗱*"},{quoted:ms})
   }catch(e){repondre(e)}
 })
 
@@ -494,7 +494,7 @@ zokou({nomCom:"incandescent",categorie:"Logo",reaction:"😋"},async(dest,zk,com
 
     var img = await mumaker.ephoto(lien,arg.join(' '));
    repondre("processing ...")
-    await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by 𝗞𝗶𝗯𝗼𝗿𝗲_𝗺𝗱 *"},{quoted:ms})
+    await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by 𝗥𝗮𝗵𝗺𝗮𝗻𝗶_𝗺𝗱 *"},{quoted:ms})
   } catch(e){repondre(e)}
 })
 
