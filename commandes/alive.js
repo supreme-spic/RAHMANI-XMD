@@ -43,15 +43,15 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *𝚁𝙰𝙷𝙼𝙰𝙽𝙸 𝚇𝙼𝙳*`
+ *𝑹𝑨𝑯𝑴𝑨𝑵𝑰_𝑴𝑫-WABOT*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
         zk.sendMessage(dest, { video: { url: lien }, caption: alivemsg }, { quoted: ms });
     }
     catch (e) {
-        console.log("⚡⚡ Menu erreur " + e);
-        repondre("⚡⚡ Menu erreur " + e);
+        console.log("🥵🥵 Menu error " + e);
+        repondre("🥵🥵 Menu error " + e);
     }
 } 
 // Checking for .jpeg or .png
@@ -60,8 +60,8 @@ else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
         zk.sendMessage(dest, { image: { url: lien }, caption: alivemsg }, { quoted: ms });
     }
     catch (e) {
-        console.log("⚡⚡ Menu erreur " + e);
-        repondre("⚡⚡ Menu erreur " + e);
+        console.log("🥵🥵 Menu erreur " + e);
+        repondre("🥵🥵 Menu erreur " + e);
     }
 } 
 else {
@@ -73,7 +73,8 @@ else {
     } else {
         if(!superUser) { repondre("there is no alive for this bot") ; return};
 
-      await   repondre("𝚁𝙰𝙷𝙼𝙰𝙽𝙸 𝚇𝙼𝙳 𝙱𝙾𝚃 𝙸𝚂 𝙰𝙻𝙸𝚅𝙴 𝙰𝙻𝙻 𝚃𝙷𝙴 𝚃𝙸𝙼𝙴 🇹🇿🔥");
+      await   repondre("You have not yet saved your alive, to do this;  enter after alive your message and your image or video link in this context: .alive message;lien");
+         repondre("don't do fake thinks :)")
      }
  } else {
 
@@ -87,7 +88,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre(' Holla🫵, *𝚁𝙰𝙷𝙼𝙰𝙽𝙸 𝚇𝙼𝙳 𝙱𝙾𝚃* is alive just like you. ')
+repondre(' Hello👋 ,*I am Rahmani👍* _*Am Alive 24/7 Just Like You😊*_ *🌟Thanks To God🌟* _ENJOY LIFE🤗_. ')
 
 }
     });
