@@ -1,5 +1,5 @@
 {
-  "name": "RAHMAN-XMD",
+  "name": "RAHMANI-XMD",
   "description": "Whatsapp device bot made to help Whatsapp users to enjoy while helping..",
   "keywords": [
     "bot",
@@ -74,7 +74,7 @@
     },
     "BOT_NAME": {
       "description": "you must give a name for you bot uhh??!!",
-      "value": "RAHMAN-XMD",
+      "value": "RAHMANI-XMD",
       "required": false 
     },
     "PUBLIC_MODE": {
@@ -84,7 +84,7 @@
     },
     "HEROKU_API_KEY": {
       "description": "Insert your Heroku API key (required)",
-      "value": "",
+      "value": "HRKU-21f94f36-4701-4c14-8c77-e3f0d998fea8",
       "required": false
     },
     "HEROKU_APP_NAME": {
@@ -99,7 +99,7 @@
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "rahman",
+      "value": "Rahmani Md",
       "required": false
     },
     "URL": {
@@ -114,7 +114,7 @@
     },
     "NUMERO_OWNER": {
       "description": "Your phone number (exclude '+' and area code, e.g., '2547')",
-      "value": "+255 693 629 079",
+      "value": "255693629079",
       "required": false
     },
     "WARN_COUNT": {
@@ -129,7 +129,7 @@
     },
     "PRESENCE": {
       "description": "Mark your presence: 1 for online, 2 for typing, 3 for recording, or leave blank for real state",
-      "value": "1",
+      "value": "2",
       "required": false
     },
     "ANTI_DELETE_MESSAGE": {
@@ -139,7 +139,7 @@
     },
     "ANTI_CALL": {
       "description": "Automatically decline incoming calls (set 'on' to activate or 'off' to deactivate)",
-      "value": "yes",
+      "value": "off",
       "required": false
     },
     "AUTO_BLOCK": {
