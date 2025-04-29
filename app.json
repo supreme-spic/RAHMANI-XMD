@@ -139,7 +139,7 @@
     },
     "ANTI_CALL": {
       "description": "Automatically decline incoming calls (set 'on' to activate or 'off' to deactivate)",
-      "value": "off",
+      "value": "no",
       "required": false
     },
     "AUTO_BLOCK": {
