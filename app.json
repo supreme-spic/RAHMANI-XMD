@@ -59,7 +59,7 @@
     },
     "ANTICALL_MSG": {
       "description": "Type your anticall message to always send when calls are declined.You can as well leave it blank",
-      "value": "",
+      "value": "Rahmani_Md is busy",
       "required": false
     },
     "BOT_NAME": {
@@ -79,7 +79,7 @@
     },
     "HEROKU_API_KEY": {
       "description": "Insert your Heroku API key (required)",
-      "value": "",
+      "value": "HRKU-1e6bb54b-0fa4-478e-978d-5f1ace317903",
       "required": true
     },
     "HEROKU_APP_NAME": {
@@ -94,7 +94,7 @@
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "",
+      "value": "RAHMANI-XMD",
       "required": true
     },
     "URL": {
@@ -114,7 +114,7 @@
     },
     "WARN_COUNT": {
       "description": "Set the warning limit for warning commands",
-      "value": "10",
+      "value": "3",
       "required": false
     },
     "STARTING_BOT_MESSAGE": {
@@ -129,12 +129,12 @@
     },
     "ANTI_DELETE_MESSAGE": {
       "description": "Enable anti-delete message (set 'yes' to activate or 'no' to deactivate)",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "ANTICALL": {
       "description": "Automatically decline incoming calls (set 'on' to activate or 'off' to deactivate)",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "AUTO_BLOCK": {
