@@ -2141,8 +2141,14 @@
 
 <p align="center"><img src="https://files.catbox.moe/aktbgo.jpg" width="500"height="500" />
 
+### 1. 𐃁FORK THIS REPOSITORY𐃁
+
+`FORK 🍴 AND STAR ⭐ IF YOU LIKE THIS BOT`
+
+  <a href="https://github.com/Qartde/RAHMANI-XMD/fork"><img title="ALI-MD" src="https://img.shields.io/badge/FORK-RAHMANI%20XMD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+
 <p align="center">
-<a href="https://github.com/deshallos1/followers"><img title="Followers" src="https://img.shields.io/github/followers/RAHMANI-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Qartde/followers"><img title="Followers" src="https://img.shields.io/github/followers/RAHMANI-XMD?color=blue&style=flat-square"></a>
 <a href="https://github.com/Qartde/RAHMANI-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Qartde/RAHMANI-XMD?color=blue&style=flat-square"></a>
 <a href="https://github.com/Qartde/RAHMANI-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Qartde/RAHMANI-XMD?color=blue&style=flat-square"></a>
 <a href="https://github.com/Qartde/RAHMANI-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/Qartde/RAHMANI-XMD?style=flat-square&color=blue"></a>
