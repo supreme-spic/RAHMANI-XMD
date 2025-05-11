@@ -40,7 +40,7 @@ zokou({
               thumbnailUrl: mediaUrl,
               mediaType: 2,
               mediaUrl: "https://files.catbox.moe/aktbgo.jpg",
-              sourceUrl: "https://whatsapp.com/channel/0029VavShWD1iUxb6kjV6K2T"
+              sourceUrl: "https://whatsapp.com/channel/0029VatokI45EjxufALmY32X"
             }
           }
         }, { quoted: ms });
@@ -56,7 +56,7 @@ zokou({
               thumbnailUrl: mediaUrl,
               mediaType: 1,
               mediaUrl: "https://files.catbox.moe/aktbgo.jpg",
-              sourceUrl: "https://whatsapp.com/channel/0029VavShWD1iUxb6kjV6K2T"
+              sourceUrl: "https://whatsapp.com/channel/0029VatokI45EjxufALmY32X"
             }
           }
         }, { quoted: ms });
