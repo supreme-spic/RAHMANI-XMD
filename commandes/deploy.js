@@ -41,7 +41,7 @@ Hello ${nomAuteurMessage},,
 ✔First type the sc ,repo or script command and you will get Rahmani md repository 
 ✔From there you are required to get your *Session id* but how,??..
          𝐇𝐎𝐖 𝐓𝐎 𝐆𝐄𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃
-✞ Open this link 👉 https://rahmani-md-7xqe.onrender.com/   then tap on pair code.
+✞ Open this link 👉 https://rahmani-1.onrender.com   then tap on pair code.
 ✞ Enter your whatsapp number with the country code e.g;  255693629079 then tap submit 
 ✞Rahmani-md owner , *Rahmani* ,will send you the code immediately.Copy the code and whatsapp will bring a notification 
 ✞Tap on the notification and paste the code that Rahmani-md owner sent you.
