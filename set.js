@@ -7,11 +7,11 @@ const databasePath = path.join(__dirname, './database.db');
 const DATABASE_URL = process.env.DATABASE_URL === undefined
     ? databasePath
     : process.env.DATABASE_URL;
-module.exports = { session: process.env.SESSION_ID || 'boniphace',
+module.exports = { session: process.env.SESSION_ID || 'rahmani',
     PREFIXE: process.env.PREFIX || "+",
-    GITHUB : process.env.GITHUB|| 'https://github.com/boniphace478/BONIPHACE-XMD-1',
-    OWNER_NAME : process.env.OWNER_NAME || "Boniphace",
-    NUMERO_OWNER : process.env.NUMERO_OWNER || "255794373476",  
+    GITHUB : process.env.GITHUB|| 'https://github.com/Qartde/RAHMANI-XMD',
+    OWNER_NAME : process.env.OWNER_NAME || "RAHMANI-XMD",
+    NUMERO_OWNER : process.env.NUMERO_OWNER || "255693629079",  
               
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "non",
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'non',
@@ -30,8 +30,8 @@ module.exports = { session: process.env.SESSION_ID || 'boniphace',
     ANTI_CALL_TEXT : process.env.ANTI_CALL_MESSAGE || '',             
     GURL: process.env.GURL  || "https://whatsapp.com/channel/0029VarN0780Qeatn8cklB0E",
     WEBSITE :process.env.GURL || "https://whatsapp.com/channel/0029VarN0780Qeatn8cklB0E",
-    CAPTION : process.env.CAPTION || "✧BONIPHACE_MD✧",
-    BOT : process.env.BOT_NAME || '✧BONIPHACE_MD✧⁠',
+    CAPTION : process.env.CAPTION || "✧RAHMANI-XMD✧",
+    BOT : process.env.BOT_NAME || '✧RAHMANI-XMD✧⁠',
     MODE: process.env.PUBLIC_MODE || "no",              
     TIMEZONE: process.env.TIMEZONE || "Africa/Dodoma", 
     PM_PERMIT: process.env.PM_PERMIT || 'no',
