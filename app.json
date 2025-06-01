@@ -1,8 +1,8 @@
 {
-  "name":"Mr-b²",
-  "description":"Best whatsapp bot💥 developed by Mr b² 🍁🍁 ",
+  "name":"RAHMANI-XMD",
+  "description":"Best whatsapp bot💥 developed by Qartde",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://files.catbox.moe/z6jrqz.jpg",
+  "logo":"https://files.catbox.moe/aktbgo.jpg",
   "repository":"https://github.com/ekitale/maths-project",
   "succes_url":"/",
   "stack":"heroku-24",
@@ -65,7 +65,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/z6jrqz.jpg",
+      "value":"https://files.catbox.moe/aktbgo.jpg",
       "required":false
        
      },
@@ -97,14 +97,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "©charles"
+    "value": "Qartde"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of kenya '254')",
     "required":true,
-    "value": "255628848298"
+    "value": "255693629079"
   },
     "WARN_COUNT":
   {
