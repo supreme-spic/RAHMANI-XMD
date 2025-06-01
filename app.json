@@ -1,14 +1,14 @@
 {
-  "name": "😘RAHZAYN-MD😘 MULT DEVICE",
-  "description": "Rahzayn Whatsapp device bot made by Rahzayn to help Whatsapp users to enjoy while helping...",
+  "name": "RAHMANI-XMD MULT DEVICE",
+  "description": "Rahmani Whatsapp device bot made by RAHMANI-XMD to help Whatsapp users to enjoy while helping...",
   "keywords": [
     "bot",
     "node",
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://files.catbox.moe/by0do4.jpg",
-  "repository": "https://github.com/rahzyn/RAHZAYN-MD",
+  "logo": "https://files.catbox.moe/aktbgo.jpg",
+  "repository": "https://github.com/Qartde/RAHMANI-XMD",
   "succes_url":"/",
   "stack":"heroku-24",
   "env":{
@@ -76,7 +76,7 @@
     },
     "BOT_NAME": {
       "description": "you must give a name for you bot uhh??!!",
-      "value": "😘RAHZAYN-MD😘",
+      "value": "RAHMANI-XMD",
       "required": false 
     },
     "CHAT_BOT": {
@@ -106,12 +106,12 @@
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "😘RAHZAYN-MD😘",
+      "value": "RAHMANI-XMD",
       "required": false
     },
     "URL": {
       "description": "you must add your bot image url.Get your image url now and fill it here",
-      "value": "https://files.catbox.moe/by0do4.jpg",
+      "value": "https://files.catbox.moe/aktbgo.jpg",
       "required": true
     },
     "AUTO_READ_MESSAGES": {
@@ -121,7 +121,7 @@
     },
     "NUMERO_OWNER": {
       "description": "Your phone number (exclude '+' and area code, e.g., '255794373476')",
-      "value": "255712634607",
+      "value": "255693629079",
       "required": false
     },
     "WARN_COUNT": {
