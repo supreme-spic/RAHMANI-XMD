@@ -97,14 +97,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "NEXUS-AI"
+    "value": "RAHMANI-XMD"
   },
     "NUMERO_OWNER":
   {
     
-    "desc": "Your number , dont put '+' and put you area code(exemple of kenya '254')",
+    "desc": "Your number , dont put '+' and put you area code(exemple of Tanzania '255')",
     "required":true,
-    "value": ""
+    "value": "255693629079"
   },
     "WARN_COUNT":
   {
@@ -120,7 +120,7 @@
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 online. 2 typing a message. 3 recording . Or leave the field blank to indicate your real state.",
-    "value":"",
+    "value":"2",
     "required": false
   },
   "ANTI_DELETE_MESSAGE" : {
