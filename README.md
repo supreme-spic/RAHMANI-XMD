@@ -2159,37 +2159,79 @@
  <p align="center"><img src="https://profile-counter.glitch.me/{ENZO-MD}/count.svg" alt="Enzo :: Visitor's Count" old_src="https://profile-counter.glitch.me/{enzo}/count.svg" /></p>
 
 
-  <a href="https://rahmani-4.onrender.com"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>
+  
+  
 
-<a href="https://signup.heroku.com/"><img title="CREATE-ACCOUNT" src="https://img.shields.io/badge/CREATE-ACCOUNT-h?color=blue&style=for-the-badge&logo=blue" width="180" height="43.45"/></a></p>
+---
+### 1. Fork This Repository
 
-<a href="https://dashboard.heroku.com/new?template=https://github.com/Qartde/RAHMANI-XMD"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=blue&style=for-the-badge&logo=nike" width="220" height="38.45"/></a></p>
+**Start by forking this repository to your own GitHub account. Click the button below to fork:**
 
-<a href="https://wa.me/+255693629079-INFO"><img title="CONTACT-Elon" src="https://img.shields.io/badge/CONTACT-Rahmani-Md?color=black&style=for-the-badge&logo=audi" width="240" height="45.45"/></a></p>
+  <a href="https://github.com/Qartde/RAHMANI-XMD/fork"><img title="RAHMANI-XMD" src="https://img.shields.io/badge/FORK-RAHMANI XMD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  
+### 2. Get Session ID 
 
-## 🖼️ RAHMANI XMD 
+**You will need a session ID to run the RAHMANI-XMD. Click the button below to obtain your session ID.if any error in loading site try vpn:**
+
+> **Get Pair Code (Session ID)**
+
+<a href='https://rahmani-4.onrender.com' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-B700FB?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+<br> 
+
+<h2 align="center">Deployment Section</h2>
+
+---
+
+<h4 align="center">1. Heroku</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
+---
 
 <p align="center">
-  <img src="https://files.catbox.moe/nrryp5.jpg" alt="RAHMANI MD Bot" width="250" style="border-radius: 10px; margin: 5px;">
-  <img src="https://files.catbox.moe/lw3qf1.jpg" alt="Feature Screenshot" width="300" style="border-radius: 10px; margin: 5px;">
-  <img src="https://files.catbox.moe/kbpvg3.jpg" alt="User Interaction" width="350" style="border-radius: 10px; margin: 5px;">
-</p>
+<a href='https://dashboard.heroku.com/new-app?template=https://github.com/Qartde/RAHMANI-XMD' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/< width=250 height=45/p></a>
 
-## 💻 RAHMANI XMD REPO ACTIVITY
+---
+
+<h4 align="center">2. Railway</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
+---
 
 <p align="center">
-  <!-- GitHub Repo Activity Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Qartde&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Repo Stats" width="800">
+<a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-FF8700?style=for-the-badge&logo=railway&logoColor=white'/< width=250 height=45/p></a>
 
-  <!-- Repo Activity Stats Screen -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Qartde&repo=RAHMANI-XMD" alt="Pinned GitHub Repo Activity" width="800">
+---
 
-<p> <b>Connect With me:</b></p>
-<p>
-<a href="https://wa.me/255693629079"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
-  <a href="https://chat.whatsapp.com/DTnrZzULVtP5r0E9rhoFOj"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
-  <a href="https://www.facebook.com/profile.php?id=100094314013209"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="14%"> </a>
-  <a href="https://www.facebook.com/profile.php?id=100094314013209"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="15%"> </a><a href="https://https://github.com/NjabuloJ/Njabulo-jb"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/devto.png" width="15%"> </a><a href="Njabulo "> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="13%"> </a>
-</p>
+<h4 align="center">3. Render</h4>
+<p style="text-align: center; font-size: 1.2em;">
 
+---
+  
+<p align="center">
+<a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-black?style=for-the-badge&logo=render&logoColot=white'/< width=250 height=45/p></a>
+
+---
+
+<h4 align="center">4. Netlify</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
+---
+ 
+<p align="center">
+<a href='https://app.netlify.com/' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-Netlify Deploy-CC00FF?style=for-the-badge&logo=netlify&logoColor=white'/< width=250 height=45/p></a> </a>
+
+---
+
+<h4 align="center">5. Replit</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
+---
+
+<p align="center">
+<a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-1976D2?style=for-the-badge&logo=replit&logoColor=white'/< width=250 height=45/p></a> </a>
+ 
+
+---
 
