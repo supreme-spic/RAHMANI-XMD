@@ -20,7 +20,7 @@
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Qartde/RAHMANI-XMD)
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Qartde/RAHMANI-XMD)
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Qartde/RAHMANI-XMD)
-[![Report Issue / Contact Maintainer](https://img.shields.io/badge/Contact%20Maintainer-Report%20Error-green?logo=whatsapp)](https://wa.me/2550693621979?text=Hi%2C%20I%20want%20to%20report%20an%20issue%20with%20RAHMANI-XMD)
+[![Report Issue / Contact Maintainer](https://img.shields.io/badge/Contact%20Maintainer-Report%20Error-green?logo=whatsapp)](https://wa.me/255693629079?text=Hi%2C%20I%20want%20to%20report%20an%20issue%20with%20RAHMANI-XMD)
 
 ---
 
@@ -101,7 +101,7 @@ Edit the `.env` file to set up your WhatsApp session and other configurations.
 
 ## 🙋 Support & Reporting Issues
 
-Found an error or need help? [Contact the maintainer directly on WhatsApp.](https://wa.me/your-number-here?text=Hi%2C%20I%20want%20to%20report%20an%20issue%20with%20RAHMANI-XMD)
+Found an error or need help? [Contact the maintainer directly on WhatsApp.](https://wa.me/255693629079?text=Hi%2C%20I%20want%20to%20report%20an%20issue%20with%20RAHMANI-XMD)
 
 Or open an issue on the [GitHub Issues page](https://github.com/Qartde/RAHMANI-XMD/issues).
 
