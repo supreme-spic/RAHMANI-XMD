@@ -1602,15 +1602,15 @@ zk.ev.on('group-participants.update', async (group) => {
 
                 let cmsg =` ⁠⁠⁠⁠
 ╭─────────────━┈⊷ 
-│🌍 *NEXUS-AI ɪs ᴄᴏɴɴᴇᴄᴛᴇᴅ*🌍
+│🌍 *RAHMANI-XMD ɪs ᴄᴏɴɴᴇᴄᴛᴇᴅ*🌍
 ╰─────────────━┈⊷
 │💫 ᴘʀᴇғɪx: *[ ${prefixe} ]*
 │⭕ ᴍᴏᴅᴇ: *${md}*
-│💢 *BOT NAME* NEXUS-AI
+│💢 *BOT NAME* RAHMANI-XMD
 ╰─────────────━┈⊷
 
 *Follow our Channel For Updates*
-> https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x
+> https://whatsapp.com/channel/0029VatokI45EjxufALmY32X
                 
                 
                  `;
