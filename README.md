@@ -1,4 +1,11 @@
 # RAHMANI-XMD WhatsApp Bot
+<!-- Optional: Add an Image -->
+<p align="center">
+  <img src="https://files.catbox.moe/aktbgo.jpg" alt="Demo Image" width="350"/>
+</p>
+
+
+
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Qartde/RAHMANI-XMD)
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Qartde/RAHMANI-XMD)
