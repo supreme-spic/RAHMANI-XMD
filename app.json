@@ -39,7 +39,7 @@
 "ANTICALL":
     {
       "description":"Enter yes for your bot to auto reject calls",
-      "value":"yes",
+      "value":"no",
       "required":false
     },
 "AUTO_REACT_STATUS":
@@ -95,9 +95,9 @@
     "OWNER_NAME":
     {
     
-    "desc": "Your Name",
+    "desc": "Your name",
     "required": false,
-    "value": "Qartde"
+    "value": "RAHMANI-XMD"
   },
     "NUMERO_OWNER":
   {
@@ -120,7 +120,7 @@
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 online. 2 typing a message. 3 recording . Or leave the field blank to indicate your real state.",
-    "value":"",
+    "value":"2",
     "required": false
   },
   "ANTI_DELETE_MESSAGE" : {
