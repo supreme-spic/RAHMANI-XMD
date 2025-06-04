@@ -34,7 +34,7 @@ module.exports = { session: process.env.SESSION_ID || '',
                   AUTO_READ : process.env.AUTO_READ || 'yes',
                   CHATBOT : process.env.CHATBOT || "yes",
                   AUTO_BIO : process.env.AUTO_BIO || "yes",
-                  AUTO_REACT : process.env.AUTO_REACT || "yes",
+                  AUTO_REACT : process.env.AUTO_REACT || "",
     DATABASE_URL,
     DATABASE: DATABASE_URL === databasePath
         ? "postgresql://postgres:bKlIqoOUWFIHOAhKxRWQtGfKfhGKgmRX@viaduct.proxy.rlwy.net:47738/railway" : "postgresql://postgres:bKlIqoOUWFIHOAhKxRWQtGfKfhGKgmRX@viaduct.proxy.rlwy.net:47738/railway",
