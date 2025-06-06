@@ -10,13 +10,16 @@
   <a href="https://github.com/Qartde/RAHMANI-XMD/fork" target="_blank">
     <img src="https://img.shields.io/badge/Fork%20this%20Repo-30363d?style=for-the-badge&logo=github&logoColor=white&labelColor=24292f&color=238636" alt="Fork this repo"/>
   </a>
+
+  ______________
   &nbsp;
   <!-- Get Session Button -->
   <a href="https://rahmani-4.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/Get%20Session-ff9800?style=for-the-badge&logo=bolt&logoColor=white&labelColor=f57c00&color=ff9800" alt="Get Session"/>
-  </a>
+ </a>
+  _______________
 </p>
-__________________
+
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Qartde/RAHMANI-XMD)
 
 ____________
