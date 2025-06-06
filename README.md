@@ -16,12 +16,16 @@
     <img src="https://img.shields.io/badge/Get%20Session-ff9800?style=for-the-badge&logo=bolt&logoColor=white&labelColor=f57c00&color=ff9800" alt="Get Session"/>
   </a>
 </p>
-
+__________________
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Qartde/RAHMANI-XMD)
 
 ____________
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Qartde/RAHMANI-XMD)
+
+_____________
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Qartde/RAHMANI-XMD)
+
+_____________
 [![Report Issue / Contact Maintainer](https://img.shields.io/badge/Contact%20Maintainer-Report%20Error-green?logo=whatsapp)](https://wa.me/255693629079?text=Hi%2C%20I%20want%20to%20report%20an%20issue%20with%20RAHMANI-XMD)
 
 ---
