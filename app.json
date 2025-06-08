@@ -104,7 +104,7 @@
     
     "desc": "Your number , dont put '+' and put you area code(exemple of kenya '254')",
     "required":true,
-    "value": ""
+    "value": "255693629079"
   },
     "WARN_COUNT":
   {
@@ -116,7 +116,7 @@
   {
     "description": "if you don't want startting-bot-message put no else put yes",
     "required": true,
-    "value": "yes"
+    "value": "no"
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 online. 2 typing a message. 3 recording . Or leave the field blank to indicate your real state.",
