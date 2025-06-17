@@ -8,7 +8,7 @@ const os = require('os');
 const moment = require("moment-timezone");
 const s = require(__dirname + "/../set");
 zokou({
-  'nomCom': "menu",
+  'nomCom': "menu1",
   'categorie': "Menu"
 }, async (_0x160fc2, _0x219205, _0xe5791b) => {
   let {
